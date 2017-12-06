@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 apples
 
-sweet oranges
+sour oranges
 
 =======
 apples
